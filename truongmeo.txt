@@ -1,3 +1,7 @@
 hello word
 517H0175
+<<<<<<< HEAD
 noi dung khac
+=======
+xin chao
+>>>>>>> 6ffb4e615ddc0fcba09e488aef308f1cfdc5e5c4
